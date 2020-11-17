@@ -32,9 +32,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac11a107-8279-4247-b60a-880792ffb3fe" name="Default Changelist" comment="">
+    <list default="true" id="ac11a107-8279-4247-b60a-880792ffb3fe" name="Default Changelist" comment="Second challange">
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.test.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.test.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +68,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605618044164</updated>
-      <workItem from="1605618045431" duration="1115000" />
+      <workItem from="1605618045431" duration="1554000" />
     </task>
+    <task id="LOCAL−00001" summary="Second challange">
+      <created>1605619182690</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1605619182690</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Second challange">
+      <created>1605619253780</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1605619253780</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +98,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second challange" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second challange" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1244" height="661" key="GridCell.Tab.0.bottom" timestamp="1605618118752">
